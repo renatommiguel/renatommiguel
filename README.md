@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[Link](https://github.com/renatommiguel/obsidian-personal)
+[Link](https://github.dev/renatommiguel/obsidian-personal)
 
 **renatommiguel/renatommiguel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
